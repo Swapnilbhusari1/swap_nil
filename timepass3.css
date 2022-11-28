@@ -3,6 +3,7 @@ header{
     height: 100px;
     background-color: #ff1e00;
     display: flex;
+    width: 1000px;
 }
 .l-h{
     display: flex;
