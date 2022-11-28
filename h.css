@@ -1,0 +1,10 @@
+p{
+    display: none;
+    background-color: yellow;
+}
+h1:hover p{
+    display: block;
+}
+h1{
+    color: red;
+}

@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(245, 82, 218);
+}
+
+.m{
+    border: 2px solid black;
+    display: inline;
+    border-radius: 10px 10px 20px 20px;
+    color: blue;
+    background-color: yellow;
+    border-color: blue green grey orange;
+    border-width: 20px 6px 40px 12px;
+
+
+}
+h2{
+    display: inline-block;
+    height: 400px;
+    width: 400px;
+    visibility: hidden;
+}
+.a{
+    border: double 5px yellow;
+    padding: 100px 50px 100px 50px;
+}
+.b{
+    border: solid 5px burlywood;
+    margin: 150px;
+}
+table{
+    border-collapse: collapse;
+}

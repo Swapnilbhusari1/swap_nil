@@ -1,0 +1,15 @@
+ .a .k::first-letter{
+    color: #1eff00;
+}
+b{
+    color: hsl(4, 100%, 50%);
+}
+h1 .q::first-line{
+    background-color: yellow;
+    color: red;
+    font-size: 30px;
+    font-weight: bolder;
+}
+h1 b{
+    color: red;
+}

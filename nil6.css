@@ -1,0 +1,15 @@
+.one{
+    height: 900px;
+    width: 1500px;
+    background-image: url(images.jpg);
+    background-size: 1500px;
+}
+.t{
+    color: rgb(25, 25, 221);
+    text-align: center;
+}
+.o{
+    background-color: chartreuse;
+text-align: center;
+text-shadow: 2px 2px red;
+}

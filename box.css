@@ -1,0 +1,38 @@
+ol{
+    border: 10px double rgb(56, 248, 38);
+    background-color: aqua;
+    width: 800px;
+    height: 700px;
+}
+.o{
+    border: 9px solid rgb(132, 126, 126);
+    display: inline;
+    background-color: hsl(0, 76%, 53%);
+}
+.m{
+    border: dotted 9px rgb(47, 45, 45);
+    display: inline;
+    background-color: #d3e22b;
+}
+.n{
+    border: dashed 9px rgb(21, 21, 21);
+    display: inline;
+    background-color: rgb(202, 129, 244);
+}
+.b{
+    border: groove 9px rgb(169, 160, 160);
+    display: inline;
+    background-color: rgb(134, 209, 252);
+}
+.l{
+    border-left: 9px dashed rgb(113, 109, 109);
+    border-bottom: 9px groove rgb(117, 107, 107);
+    border-top: 9px solid black;
+    border-right: 9px dotted black;
+    display: inline;
+
+}
+h2{
+    border-bottom:10px groove rgb(107, 96, 96);
+    display: inline;
+}
