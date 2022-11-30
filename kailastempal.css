@@ -1,0 +1,37 @@
+main{
+    background-color: aqua;
+    display: flex;
+    height: 1500px;
+flex-direction: column;
+}
+header{
+    background-color: aquamarine;
+    flex-grow: 2;
+    display: flex;
+}
+.logo{
+    background-color: brown;
+    flex-grow: 1;
+    
+}
+.header{
+    display: flex;
+    flex-direction: column;
+    flex-grow: 4;
+}
+.nav{
+    background-color: cornflowerblue;
+    flex-grow: 2;
+}
+.s{
+    background-color: chartreuse;
+    flex-grow: 1;
+}
+section{
+    background-color: bisque;
+    flex-grow: 5;
+}
+footer{
+    background-color: blueviolet;
+    flex-grow: 1;
+}
