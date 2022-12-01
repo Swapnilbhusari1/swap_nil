@@ -1,0 +1,103 @@
+main{
+    height: 1500px;
+    background-color: aliceblue;
+    display: flex;
+    flex-direction: column;
+}
+header{
+    background-color: red;
+    flex-grow: 2;
+    display: flex;
+    flex-direction: row;
+}
+.a{
+    background-color: blueviolet;
+    flex-grow: 1;
+    display: flex;
+    justify-content: space-around;
+}
+.logo{
+    background-color: palegoldenrod;
+    flex-grow: 1;
+}
+.header{
+    background-color: red;
+    flex-grow: 4;
+    display: flex;
+    flex-direction: column;
+}
+.heading{
+    background-color: blue;
+    flex-grow: 2;
+}
+.nav{
+    background-color: chartreuse;
+    flex-grow: 2;
+}
+.a .b{
+    background-color: azure;
+    width: 200px;
+    border-radius: 50%;
+    justify-content: center;
+    
+}
+.a .c{
+    background-color: azure;
+    width: 200px;
+    border-radius: 50%;
+    justify-content: center;
+    
+}
+.a .d{
+    background-color: azure;
+    width: 200px;
+    border-radius: 50%;
+    justify-content: center;
+    
+}
+section{
+    background-color: aquamarine;
+    flex-grow: 5;
+    display: flex;
+    margin: 5px;
+
+}
+.e{
+    background-color: yellow;
+    flex-grow: 1;
+}
+.f{
+    background-color: rgb(29, 159, 210);
+    flex-grow: 1;
+    display: flex;
+    margin: 9px;
+    flex-direction: column ;
+}
+.h{
+   background-color: yellowgreen;
+   flex-grow: 1;
+   margin: 5px;
+}
+.i{
+    background-color: yellowgreen;
+    flex-grow: 1;
+    margin: 5px;
+ }
+ .j{
+    background-color: yellowgreen;
+    flex-grow: 1;
+    margin: 5px;
+ }
+ .k{
+    background-color: yellowgreen;
+    flex-grow: 1;
+    margin: 5px;
+ }
+.g{
+    background-color: yellow;
+    flex-grow: 1;
+}
+footer{
+    background-color: bisque;
+    flex-grow: 1;
+}
