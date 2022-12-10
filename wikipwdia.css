@@ -1,0 +1,32 @@
+
+ .one{
+    display: flex;
+}
+aside{
+    background-color: slategrey;
+}
+.two{
+    display: flex;
+}
+header{
+    background-color: antiquewhite;
+}
+li{
+    list-style: none;
+    padding: 10px;
+}
+.login{
+    display: flex;
+    justify-content: end;
+}
+ul li{
+    display: inline;
+}
+menu{
+    display: flex;
+    justify-content: space-between;
+
+}
+.a{
+    display: flex;
+}
